@@ -37,4 +37,4 @@ msg: "ok"
 
 我已经把它改成中文了
 我已经您好大家都会VCD
-tijiaomiaojdskckczmnc
+zhaomin
